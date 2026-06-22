@@ -1,16 +1,16 @@
-## Hi there 👋
+# Ciao, it's Alessandro here!
 
-<!--
-**AlessandroSerra/AlessandroSerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Physics PhD student in Condesed Matter Physics with strong interest in computational physics, data analysis, and open-source scientific tools.
 
-Here are some ideas to get you started:
+## Current focus
+- Quantum / statistical / computational physics
+- Numerical simulations and reproducible research
+- Python and Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+- [How Hydrogen-Bond Topology Shapes Ultrafast O–H Stretch Relaxation in Water and Ice]([link](https://github.com/AlessandroSerra/ultrafast_water_ice)) — Study on ultrafast vibrational energy relaxation in hydrogen-bonded H2O phases.
+
+## Contact
+- Email: alessandro.serra@dsf.unica.it
+- LinkedIn: https://www.linkedin.com/in/alessandroserra1212/
+- GitHub: we're already here...
