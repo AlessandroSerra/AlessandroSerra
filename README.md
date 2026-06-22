@@ -8,7 +8,7 @@ I'm a Physics PhD student in Condesed Matter Physics with strong interest in com
 - Python and Linux
 
 ## Selected projects
-- [How Hydrogen-Bond Topology Shapes Ultrafast O–H Stretch Relaxation in Water and Ice]([link](https://github.com/AlessandroSerra/ultrafast_water_ice)) — Study on ultrafast vibrational energy relaxation in hydrogen-bonded H2O phases.
+- [How Hydrogen-Bond Topology Shapes Ultrafast O–H Stretch Relaxation in Water and Ice](https://github.com/AlessandroSerra/ultrafast_water_ice) — Study on ultrafast vibrational energy relaxation in hydrogen-bonded H2O phases.
 
 ## Contact
 - Email: alessandro.serra@dsf.unica.it
