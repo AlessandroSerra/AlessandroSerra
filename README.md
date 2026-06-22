@@ -12,5 +12,5 @@ I'm a Physics PhD student in Condesed Matter Physics with strong interest in com
 
 ## Contact
 - Email: alessandro.serra@dsf.unica.it
-- LinkedIn: https://www.linkedin.com/in/alessandroserra1212/
+- LinkedIn: [AlessandroSerra](https://www.linkedin.com/in/alessandroserra1212/)
 - GitHub: we're already here...
